@@ -14,4 +14,4 @@
 ### Notes
  * N/A
 
-![avatar](cdp.jpg)
+![](.\cdp.jpg)
