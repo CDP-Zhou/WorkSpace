@@ -27,14 +27,20 @@ This REPO is a workspace use in CDP Group for Matt.
 
 ### Clipboard for Carrie
 
-* 21 保险
-* 71 Life: 饿了么 实物
-* 74 体检
-* Test
-* Ctrl Shift D: Remove Grave `
+* N/A
 
 ### Notes for Carrie
 
 * N/A
+
+### Carrie's Balence-Sheet for Wechat Pay and Alipay Infos
+
+* 21 保险
+* 71 Life: 饿了么 实物
+* 74 体检
+* Test
+* Ctrl Shift D: Remove Grave (`)
+
+<br/>
 
 ![CDP Logo](.\cdp.jpg)
