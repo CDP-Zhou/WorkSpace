@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This REPO is a workspace use in CDP Group for Matt.
+This REPO is a workspace use in CDP Group Ltd. for Matt.
 
 ## Notes
 
@@ -15,6 +15,7 @@ This REPO is a workspace use in CDP Group for Matt.
 
 * Update worker @ Nov. 26
 * Update worker @ Nov. 27
+* 迈康尼12月生日名单
 
 ### Notes for Vera
 
@@ -22,6 +23,15 @@ This REPO is a workspace use in CDP Group for Matt.
 * Update Workers: \Vera\UserLogins\凯杰天根入职2020-11-10.xlsx
 * Portal to Customers: <https://client.cdp-life.com/index.php/life/employee_list>
 * Portal to Customers Infos: <https://client.cdp-life.com/index.php/life/account_list>
+
+* 需要在CMS里维护员工账户的客户有：
+
+1. 凯杰-天根
+2. 凯杰-凯杰生物
+3. GAP
+4. Ragdell
+5. 紫光数码
+6. ...
 
 ## Work from Carrie
 
