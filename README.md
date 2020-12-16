@@ -53,4 +53,4 @@ This REPO is a workspace use in CDP Group Ltd. for Matt.
 
 <br/>
 
-![CDP Logo](.\cdp.jpg)
+![CDP Logo](cdp.jpg)
