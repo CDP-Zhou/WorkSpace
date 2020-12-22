@@ -93,4 +93,8 @@ Python: Excel -> Array -> For loop if then output array -> Print output array
 
 <br/>
 
+<<<<<<< HEAD
 ![CDP Logo](.\cdp.jpg)
+=======
+![CDP Logo](cdp.jpg)
+>>>>>>> f31fa7d1c96df8ef2a27df7c2c2db6f566ada667
